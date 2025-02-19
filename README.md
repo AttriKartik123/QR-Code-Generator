@@ -1,0 +1,1 @@
+A simple and efficient QR Code Generator website built using an API. Generate QR codes instantly by entering text, URLs, or other data. Quick, user-friendly, and accessible from any device. Perfect for sharing links, contact info, and more. Try it now!
